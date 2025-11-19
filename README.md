@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roi Carballal Morgado</h1>
 <h3 align="center">A passionate frontend developer from</h3>
 
-- 🌱 I’m currently learning **javascript ,typescript**
 
 - 📫 How to reach me **roi@nemeda.ia**
 
